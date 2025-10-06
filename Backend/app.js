@@ -22,7 +22,7 @@ app.use('/auth', authRoutes);
 app.use('/posts', postRoutes);
 app.use('/users', userRoutes);
 app.use(errorHandler);
- 
+ var name= "start"
 require('./controllers/chatController')(io);
  
 module.exports = { app, server };
