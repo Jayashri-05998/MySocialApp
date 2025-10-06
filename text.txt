@@ -1,0 +1,16 @@
+
+ deep analyze kro frontend aur backend code ko aur problem fix kro 
+
+1. uploaded post pr commentmodel mai comment krne pr profile show ho rhi comment post nhi ho rhi  
+
+2. create post se image upload ho rha hai video nhi ho rha muze dono upload krne hai
+
+3. profile section mai  post delete nhi ho rhi delte ko click se
+
+4. chat section mai dono users ko select krne baad chats send aur receve ho rhi hai  , 
+user ko bhi meri profile ko select krke rkhna pdta hai wrna usko msg receve nhi hota ye automatic hona cahiye  
+deep analyze kro frontend aur backend code ko aur problem fix kro
+profile mai messege button click krne pr direct usi user ke sath chat connect honi chahiye jaise insagram mai hoti hai 
+ 
+
+  
